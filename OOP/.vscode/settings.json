@@ -1,0 +1,8 @@
+{
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.completeFunctionParens": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "notebook.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+}
